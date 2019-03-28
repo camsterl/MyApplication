@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hero Quiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="number_of_choices">Quiz Type</string>
+    <string name="Names">Names</string>
+    <string name="guess_hero">Guess the Hero</string>
+    <string name="results">%1$d guesses, %2$.01f%% correct</string>
+    <string name="incorrect_answer">Incorrect!</string>
+    <string name="restarting_quiz">Quiz will restart with your new settings</string>
+    <string name="question">Question %1$d of %2$d</string>
+    <string name="reset_quiz">Reset Quiz</string>
+    <string name="image_description">Image of the current hero in the quiz</string>
+    <string name="default_region">Cameron Kerr</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="quiz_type">Quiz Type</string>
+    <string name="summary">Choose superhero name, superhero power or one thing about them</string>
+</resources>
